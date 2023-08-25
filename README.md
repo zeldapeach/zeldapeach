@@ -21,18 +21,6 @@
 
 ###
 
-<img align="center" height="150" src="https://i.pinimg.com/originals/87/f1/d7/87f1d760b1e13d097d1e604fb8e1de48.jpg"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/	jiff2zhslnjfnbvdq2te46jjb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"/>
-  </a>
-</div>
-
-###
-
 ![](https://indify.co/weatherIcons/r02n.svg) ![](https://indify.co/weatherIcons/c04d.svg) ![](https://indify.co/weatherIcons/r02n.svg)
 ![](https://indify.co/weatherIcons/c04d.svg) ![](https://indify.co/weatherIcons/r02n.svg)
 
