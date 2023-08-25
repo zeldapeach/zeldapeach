@@ -6,6 +6,8 @@
 
 ###
 
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -42,3 +44,7 @@
 ###
 
 ![](https://media.tenor.com/yFpY8naLlKkAAAAC/nezuko-kimetsu-no-yaiba.gif)
+
+![](https://indify.co/weatherIcons/r02n.svg) ![](https://indify.co/weatherIcons/c04d.svg) ![](https://indify.co/weatherIcons/r02n.svg)
+![](https://indify.co/weatherIcons/c04d.svg) ![](https://indify.co/weatherIcons/r02n.svg)
+
